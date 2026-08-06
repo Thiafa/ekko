@@ -1,0 +1,19 @@
+{
+    "auth": {
+        "login": "Login",
+        "register": "Registre-se",
+        "title": "Acesse a sua conta",
+        "have_account": "Não tem uma conta",
+        "form": {
+            "email": "Email",
+            "password": "Senha",
+            "remember": "Lembrar-me",
+            "forgot": "Esqueceu a senha?",
+            "login": "Entrar",
+            "forgot_password": "Esqueceu sua senha?"
+        }
+    },
+    "welcome": "Bem-vindo",
+    "login": "Entrar",
+    "register": "Cadastrar"
+}
